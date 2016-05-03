@@ -451,7 +451,7 @@ h3 a:hover{
 .jGBox{
 	width:4000px;
 	height:164px ;
-	background-color: red;
+	/*background-color: red;*/
 	position: absolute;
 	left:0;
 	right:0;
@@ -726,21 +726,21 @@ h3 a:hover{
 .banner1-1{
 	width: 400px;
 	height: 125px;
-	background: red;
+/*	background: red;*/
 	background-image: url(../images/1fxia.jpg);
 	float:left;
 }
 .banner1-2{
 	width: 400px;
 	height: 125px;
-	background: red;
+/*	background: red;*/
 	background-image: url(../images/1fxia2.jpg);
 	float:left;
 }
 .banner1-3{
 	width: 400px;
 	height: 125px;
-	background: red;
+/*	background: red;*/
 	background-image: url(../images/1fxia3.jpg);
 	float:left;
 }
@@ -1609,7 +1609,7 @@ margin-left: 3px;
 .banner2-3{
 	width: 400px;
 	height: 125px;
-	background: red;
+	/*background: red;*/
 	background-image: url(../images/banner2-3.jpg);
 	float:left;
 }

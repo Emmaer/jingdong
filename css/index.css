@@ -260,7 +260,7 @@ color: red;
 }
 
 .quan1:hover{
-	background-color: red;
+/*	background-color: red;*/
 }
 .quan span{
 
@@ -1073,7 +1073,7 @@ float: left;
 .mc-righta{
 	width:439px;
 	height:157px;
-	background-color: red;
+/*	background-color: red;*/
 	float: left;
 	border-bottom: 1px solid #ededed;
 	border-left: 1px solid #ededed;
@@ -1489,7 +1489,7 @@ margin-left: 3px;
 	height:236px;
 	border-bottom: 1px solid #ededed;
 	border-left: 1px solid #ededed;
-/*	background-color: red;*/
+	background-color: red;
 	display:block;
 	text-align: center;
 	color:#333;
@@ -1555,7 +1555,7 @@ margin-left: 3px;
  .f2-right1{
  	width: 660px;
  	height:474px ;
- /*	background-color: red;*/
+ 	background-color: red;
  	float:left;
  	position: absolute;
  	top:0px;
@@ -2572,7 +2572,7 @@ color:#C81623;
 	width: 30px;
 	height:29px;
 	
-/*	background-color: red;*/
+	background-color: red;
 	color:#7A6E6C;
 	font-weight: 400;
 	text-align: center;

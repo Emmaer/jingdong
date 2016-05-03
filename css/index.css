@@ -1068,12 +1068,11 @@ float: left;
 	width: 880px;
 	height: 631px;
 	float: right;
-
-	background-color: black;}
+}
 .mc-righta{
 	width:439px;
 	height:157px;
-	background-color: red;
+
 	float: left;
 	border-bottom: 1px solid #ededed;
 	border-left: 1px solid #ededed;
